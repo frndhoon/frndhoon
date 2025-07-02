@@ -7,5 +7,5 @@ FE Engineer · Video Director
 
 **💙삼성 청년 SW 아카데미 (SSAFY)** 12기 • <sub><sup> 2024-07-02 ~ now </sub></sup>
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-e5e5e5?logo=notion&logoColor=1a1a1a)](https://otterbit.notion.site/frndhoon-Portfolio-1b82f79c753080f895b5edabeb3973c1?pvs=4)
-[![Velog](https://img.shields.io/badge/Velog-20c997?logo=Vimeo&logoColor=white)](https://velog.io/@frndhoon)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/deck/G50yqLG6p7AObZ6QN5lAh4/frndhoon-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=192-794&t=DLVVwErKW3qUr9pO-1)
+[![Velog](https://img.shields.io/badge/Velog-20c997?logo=Vimeo&logoColor=white)](https://velog.io/@frndhoon) 
